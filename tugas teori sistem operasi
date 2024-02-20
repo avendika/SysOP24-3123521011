@@ -1,0 +1,13 @@
+Tugas sistem operasi
+
+1.Apa hubungan antara perangkat lunak aplikasi dan sistem operasi?
+-sistem operasi membantu atau memfasilitasi aplikasi untuk di bisa di jalankan 
+-aplikasi juga menggunakan sumberdaya yang di kelola oleh sistem operasi
+-Sistem operasi menyediakan antarmuka pengguna dasar, seperti GUI atau CLI, yang digunakan oleh pengguna untuk berinteraksi dengan sistem
+-Sistem operasi menyediakan layanan pengelolaan file yang digunakan oleh aplikasi untuk menyimpan, mengambil, dan memanipulasi data
+
+2.Apa yang dimaksud dengan sistem operasi? Apakah itu perangkat keras atau perangkat lunak?
+-sistem operasi adalah suatu sistem di dalam komputer yang mana sistem operasi ini dapat mengatur dan menggelola komputer
+-perangkat keras adalah perangkat komputer yang berupa fisik atau komponen dari komputer tersebut, contohnya cpu.
+-perangkat lunak adalah perangkat komputer yang memberikan kontrol dan manajemen perangkat keras 
+Sistem operasi memungkinkan perangkat keras dan perangkat lunak lainnya berinteraksi dan beroperasi secara efisien
