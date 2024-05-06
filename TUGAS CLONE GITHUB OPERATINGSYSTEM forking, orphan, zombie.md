@@ -1,17 +1,14 @@
-forking.exe
+## forking.exe
 
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/1039be24-5f94-4f5c-96ae-22e89972569a)
 
 Lalu ketikan kode betikut:
 
+```
 #include <sys/types.h>
-
 #include <stdio.h>
-
 #include <unistd.h>
-
 #include <sys/wait.h> // untuk wait()
-
 int main() {
     pid_t pid;
     int status;
@@ -35,7 +32,7 @@ int main() {
     }
     return 0;
 }
-
+```
 
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/aad11e0a-3a6f-485a-9c2f-4d2472cdb422)
 
@@ -45,16 +42,14 @@ Maka hasilnya seperti ini
 
 
 
-orphan.exe
+## orphan.exe
 
 ketikan kode betikut:
 
+```
 #include <stdio.h>
-
 #include <sys/types.h>
-
 #include <unistd.h>
-
 int main()
 {
 	// fork() Create a child process
@@ -91,24 +86,23 @@ int main()
 	
 	return 0;
 }
+```
 
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/0eef7708-cad8-483d-801a-c941d3a98ee5)
 
 Maka hasilnya seperti berikut:
+
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/70ff549d-bc92-45e1-8f59-b8ac68d638a4)
 
 
-zombie.exe
+## zombie.exe
 
 Ketikakn kode berikut:
 
-
+```
 #include <stdlib.h>
-
 #include <sys/types.h>
-
 #include <unistd.h>
-
 int main ()
 {
   pid_t child_pid;
@@ -129,6 +123,6 @@ int main ()
 }
 
 /*ps -e -o pid,ppid,stat,cmd */
-
+```
 Maka hasilnya akan seperti berikut :
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/4434f871-0a2f-49da-a370-2ee0f8bee08e)
