@@ -3,15 +3,14 @@ forking.exe
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/1039be24-5f94-4f5c-96ae-22e89972569a)
 
 Lalu ketikan kode betikut:
+
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h> // untuk wait()
-
 int main() {
     pid_t pid;
     int status;
-
     /* fork a child process */
     pid = fork();
     if (pid < 0) { /* error occurred */
