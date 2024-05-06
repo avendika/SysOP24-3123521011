@@ -25,7 +25,8 @@ seting fork02 dengan mengetikan kode di atas dan hasinya berikut
 Ket.
 seting fork03 dengan mengetikan kode di atas dan hasinya berikut
 
-![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/2db7378b-56c7-4807-9e78-70a6f2026498)
+![fork03](https://github.com/avendika/SysOP24-3123521011/assets/140131896/54a89c26-b85e-49a6-9b83-69b9ec2340f4)
+
 
 
 
