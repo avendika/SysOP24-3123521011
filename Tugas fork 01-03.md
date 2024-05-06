@@ -18,7 +18,7 @@ seting fork01 dengan mengetikan kode di atas dan hasinya berikut
 Ket.
 seting fork02 dengan mengetikan kode di atas dan hasinya berikut
 
-![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/8da31585-0a59-440e-b762-907abfe48413)
+![fork02](https://github.com/avendika/SysOP24-3123521011/assets/140131896/6121e2e6-8467-4616-8aa4-c7772b14af44)
 
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/bf698a33-747c-4745-ba72-ea25f9975884)
 
