@@ -8,9 +8,11 @@ Lalu ketikan kode betikut:
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h> // untuk wait()
+
 int main() {
     pid_t pid;
     int status;
+    
     /* fork a child process */
     pid = fork();
     if (pid < 0) { /* error occurred */
