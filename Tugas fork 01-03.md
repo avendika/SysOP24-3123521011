@@ -11,7 +11,7 @@ mengclone ke github pak ferry
 Ket.
 seting fork01 dengan mengetikan kode di atas dan hasinya berikut
 
-![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/81fa342b-9fa6-47a3-96a1-d3f589c8b72f)
+![fork01](https://github.com/avendika/SysOP24-3123521011/assets/140131896/944bed57-ed37-4381-851e-094affe3e582)
 
 ![image](https://github.com/avendika/SysOP24-3123521011/assets/140131896/c35e7a51-0d98-4796-b261-3a4c9312a046)
 
