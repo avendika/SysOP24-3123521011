@@ -94,14 +94,3 @@ Pembagian Beban:
 
 Kombinasi strategi di atas untuk memastikan bahwa tidak ada starvation baik pada pembaca maupun penulis, menggunakan penjadwalan yang adil.
 Dalam kedua masalah ini, tujuan utamanya adalah untuk memastikan bahwa sistem tetap adil dan efisien tanpa deadlock atau starvation, memungkinkan akses yang aman dan terkoordinasi ke resource bersama dalam lingkungan concurrent.
-
-
-
-
-
-
-
-
-wget http://mirrors.kernel.org/ubuntu/pool/main/s/samba/samba_4.x.x_amd64.deb
-
-
