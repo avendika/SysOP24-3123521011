@@ -1,4 +1,4 @@
-    jika ada proses yang sedang mengerjakan tugas A dan kemudian melakukan forking untuk menciptakan proses baru yang mengerjakan tugas B, kedua tugas tersebut akan berjalan bersamaan (secara paralel). Ini adalah salah satu keuntungan utama dari forking dalam sistem operasi: memungkinkan multitasking atau eksekusi paralel.
+jika ada proses yang sedang mengerjakan tugas A dan kemudian melakukan forking untuk menciptakan proses baru yang mengerjakan tugas B, kedua tugas tersebut akan berjalan bersamaan (secara paralel). Ini adalah salah satu keuntungan utama dari forking dalam sistem operasi: memungkinkan multitasking atau eksekusi paralel.
 
 Berikut adalah ilustrasi bagaimana ini bekerja dalam kode C:
 
